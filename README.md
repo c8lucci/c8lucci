@@ -1,15 +1,8 @@
-### Olá, meu nome é Marcela e curso Ciência da Computação na UFRPE!
-
-
+### Olá, meu nome é Marcela e curso Ciência da Computação na UFRPE!<br>
 - 📚 Atualmente estou aprendendo Java.
-
-
-
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/aa22b817a0394dcac1f739ab0b6833d9.gif" img align="right" width="250" height="230" border="0" alt="https://picasion.com/" /></a>
-
-
- </div>
-
+</div>
+<img align="right" alt="mzn-char" height="210" width="220"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZmM2o3ZXd5YXJzbHpnMHRiZWJ0ZmVpYzBlM2ViNmd0enRhanZ1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VQKZKVc0PIXXVwVMvl/giphy.gif">
+ 
 ##
 
   
@@ -17,3 +10,5 @@
 <a href="https://instagram.com/marcelaxoliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </div>
+
+
